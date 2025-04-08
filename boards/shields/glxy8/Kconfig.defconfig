@@ -1,0 +1,6 @@
+if SHIELD_GLXY8
+
+config ZMK_KEYBOARD_NAME
+    default "Galaxy80"
+
+endif # SHIELD_GLXY8
