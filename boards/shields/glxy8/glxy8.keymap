@@ -1,4 +1,4 @@
-cat << 'EOF' > galaxy80.keymap
+cat << 'EOF' > glxy8.keymap
 
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/bt.h>

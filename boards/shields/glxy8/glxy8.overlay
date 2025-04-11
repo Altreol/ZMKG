@@ -1,4 +1,4 @@
-cat << 'EOF' > galaxy80.overlay
+cat << 'EOF' > glxy8.overlay
 #include <dt-bindings/zmk/matrix_transform.h>
 
 / {

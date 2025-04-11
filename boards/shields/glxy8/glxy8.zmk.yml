@@ -4,16 +4,17 @@
 
 file_format: "1"
 id: glxy8
-name: Epomaker x Feker Galaxy80
+name: Galaxy80
 type: shield
-
+board: nice_nano_v2
 # Set this to a URL that documents the keyboard.
-url: https://example.com
+url: https://altreol.us
 
 # Add any features your keyboard supports here.
 # See https://zmk.dev/docs/development/hardware-integration/hardware-metadata-files#features
 features:
   - keys
   - studio  # Remove this line if your keyboard will not support ZMK Studio
+  - backlight
 requires:
   - pro_micro
